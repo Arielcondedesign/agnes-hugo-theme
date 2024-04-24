@@ -35,13 +35,13 @@ theme = "agnes-hugo-theme"
 	FacebookURL = "https://facebook.com/podbharati"
 		
 [params.content]
-	LeadTitle = "Landing template for Startups"
-	LeadDescription = "Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
-	ButtonCaption = "Pricing & Plans"
-	ButtonURL = "http://google.com"
+	LeadTitle = "Transformando la Emergencia Climática"
+	LeadDescription = "Bienvenido a Regeneralia, nos dedicamos a revertir la emergencia climática a través de productos y servicios regenerativos. Nuestro enfoque innovador está diseñado para satisfacer las necesidades de tu departamento RSC."
+	ButtonCaption = "Descubre cómo podemos ayudarte"
+	ButtonURL = "#features"
 
 ################### Feature Columns (do not exceed 4) ####################
-
+URL = "#features"
 [[params.feature]]
 	FeatureTitle = "Feature 1"
 	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
